@@ -157,3 +157,5 @@ function UpdateSenhaBD(usuarioRecEncontrado, senhaRandom){
         });
     });
 }
+
+console.log("ola")
